@@ -1,7 +1,6 @@
 <template>
     <div>
-        Lista de libros
-        <button type="button" class="btn btn-success">Nuevo libro</button>
+
 
 
 
